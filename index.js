@@ -6,8 +6,8 @@ const createMessage = (length = 3) => {
     }
     return message
 }
-createMessage(10);
-createMessage(10);
-createMessage(10);
-createMessage(10);
-createMessage(10);
+console.log(createMessage(10));
+console.log(createMessage(10));
+console.log(createMessage(10));
+console.log(createMessage(10));
+console.log(createMessage(10));
